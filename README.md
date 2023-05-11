@@ -1,2 +1,2 @@
 # MBT
-MapByTxt
+Map by txt
